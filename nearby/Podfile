@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+
+target 'NearbyMessagesExample' do
+  pod 'NearbyMessages'
+end
+
+target 'NearbyMessagesExampleSwift' do
+  pod 'NearbyMessages'
+end
